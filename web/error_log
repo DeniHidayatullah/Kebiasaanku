@@ -1,0 +1,2 @@
+[05-Nov-2021 03:54:28 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/umr79sg2/public_html/peramalan_cabai_api/system/database/drivers/mysqli/mysqli_driver.php on line 135
+[05-Nov-2021 03:56:36 UTC] PHP Fatal error:  Call to undefined function mysqli_init() in /home/umr79sg2/public_html/peramalan_cabai_api/system/database/drivers/mysqli/mysqli_driver.php on line 135
